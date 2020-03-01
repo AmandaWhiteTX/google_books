@@ -2,7 +2,7 @@
 An App for Searching for Books using React and Google Books API
 
 <p align="center">
-  <img src="" alt="Book Search Preview" />
+  <img src="./img/bookpreview.jpg" alt="Book Search Preview" />
 </p>
 
 Demo: https://AmandaWhiteTX/google_books/
