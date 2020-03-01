@@ -39,15 +39,14 @@ var Footer = React.createClass({
     return(
 
       <div className="related">
-        
-				<a href="http://facebook.github.io/react/" target="_blank">
-					<img src="img/react.png" />
-					<h3>React JS</h3>
-				</a>
-				<a href="https://developers.google.com/books/?hl=en" target="_blank">
-					<img src="img/googlebooks.png" />
-					<h3>Google Books API</h3>
-				</a>
+        <a href="http://facebook.github.io/react/" target="_blank">
+          <img src="img/react.png" />
+          <h3>React JS</h3>
+        </a>
+        <a href="https://developers.google.com/books/?hl=en" target="_blank">
+          <img src="img/googlebooks.png" />
+          <h3>Google Books API</h3>
+        </a>
 
 			</div>
 
@@ -109,6 +108,7 @@ var Books = React.createClass({
             <li>{this.state.publisher}</li>
             <li>{this.state.pageCount} pages</li>
           </ul>
+          
         </div>
       </figure>
 
