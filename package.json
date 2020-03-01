@@ -1,0 +1,23 @@
+{
+  "name": "google_books",
+  "version": "1.0.0",
+  "description": "An App for Searching for Books using React and Google Books API",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmandaWhiteTX/google_books.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmandaWhiteTX/google_books/issues"
+  },
+  "homepage": "https://github.com/AmandaWhiteTX/google_books"
+}
