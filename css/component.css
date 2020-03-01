@@ -227,7 +227,7 @@ body {
     left: 50%;
     width: 1px;
     height: 100%;
-    background: #333;
+    background: rgb(56, 1, 40);
     content: '';
 }
 
@@ -621,8 +621,8 @@ body {
 
 .book[data-book="book-9"] .cover::before {
     background: url(../img/spine9.svg);
-    background: -webkit-linear-gradient(left, transparent 0%, rgba(0, 0, 0, 0.01) 1%, rgba(0, 0, 0, 0.1) 50%, transparent 100%), url(../img/spine9.svg), #f7a56e;
-    background: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.01) 1%, rgba(0, 0, 0, 0.1) 50%, transparent 100%), url(../img/spine9.svg), #f7a56e;
+    background: -webkit-linear-gradient(left, transparent 0%, rgba(0, 0, 0, 0.01) 1%, rgba(0, 0, 0, 0.1) 50%, transparent 100%), url(../img/spine9.svg), #3ea1a1;
+    background: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.01) 1%, rgba(0, 0, 0, 0.1) 50%, transparent 100%), url(../img/spine9.svg), #3ea1a1;
 }
 
 /* border around bookblock same as book cover color*/
