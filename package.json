@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "An App for Searching for Books using React and Google Books API",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "gh-pages": "^2.2.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
